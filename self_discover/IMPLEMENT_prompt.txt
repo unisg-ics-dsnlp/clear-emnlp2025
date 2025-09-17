@@ -1,0 +1,15 @@
+Operationalize the reasoning modules into a step-by-step reasoning plan in JSON format:
+
+Example task:
+[REASONING EXAMPLE]
+
+Example plan for the example task:
+[REASONING EXAMPLE PLAN]
+
+Modules:
+[MODULES]
+
+Examples:
+[EXAMPLES]
+
+Implement a reasoning structure for solvers to follow step-by-step and arrive at correct answers. Do not solve the examples, just output the generated plan:

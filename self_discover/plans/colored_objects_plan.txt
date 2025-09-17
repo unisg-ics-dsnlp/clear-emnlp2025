@@ -1,0 +1,41 @@
+```json
+{
+  "reasoning_plan": [
+    {
+      "step": 1,
+      "action": "Identify the Primary Challenge",
+      "description": "Determine what the main question or problem is that needs to be solved in the given task."
+    },
+    {
+      "step": 2,
+      "action": "Simplification Strategy",
+      "description": "Simplify the task by focusing on the specific details related to the challenge, such as colors, positions, or quantities."
+    },
+    {
+      "step": 3,
+      "action": "Modular Problem Solving",
+      "description": "Break down the task into manageable components, like identifying relevant items or positions based on the given challenge."
+    },
+    {
+      "step": 4,
+      "action": "Sequential Analysis",
+      "description": "Arrange the information or steps needed to solve the problem in a logical sequence, moving from one item to the next based on their arrangement or attributes."
+    },
+    {
+      "step": 5,
+      "action": "Analytical Assessment Requirement",
+      "description": "Determine if the task requires analyzing data, such as counting objects, comparing colors, or assessing positions, and then apply the suitable method."
+    },
+    {
+      "step": 6,
+      "action": "Decision-making and Strategic Planning",
+      "description": "Make decisions based on the analysis, such as selecting the correct option from the given choices, by employing a process of elimination or comparison."
+    },
+    {
+      "step": 7,
+      "action": "Final Assessment and Answer",
+      "description": "Review the steps and analysis to ensure the final answer directly addresses the primary challenge posed at the beginning of the task."
+    }
+  ]
+}
+```

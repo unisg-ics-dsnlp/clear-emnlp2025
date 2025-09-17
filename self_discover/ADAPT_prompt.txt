@@ -1,0 +1,8 @@
+Rephrase and specify each reasoning module so that it better helps solving the task:
+Modules:
+[MODULES]
+
+Examples:
+[EXAMPLES]
+
+Adapt each reasoning module description to better solve the tasks, and respond ONLY with the rephrased reasoning module descriptions:

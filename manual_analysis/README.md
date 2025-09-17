@@ -1,0 +1,2 @@
+- run prepare_manual_rating_scale.ipynb
+- then run prepare_texts_for_manual_rating_scale.ipynb

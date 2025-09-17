@@ -14,6 +14,6 @@ semantic_text_similarity==1.0.3
 sentence_splitter==1.4
 sentence_transformers==3.2.0
 spacy==3.8.2
-torch==2.4.0
+torch==2.8.0
 tqdm==4.67.1
-transformers==4.45.1
+transformers==4.53.0
